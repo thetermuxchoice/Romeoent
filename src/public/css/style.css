@@ -45,11 +45,6 @@
 .index-bg-transparent {
   background: none;
 }
-.index-footer {
-  opacity: 1;
-  position: relative;
-  z-index: 1;
-}
 .index-img-hero-hidden {
   display: none;
 }
