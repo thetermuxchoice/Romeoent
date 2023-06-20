@@ -251,7 +251,6 @@ body{
 .index-event-section-item{
   width: 100%;
   position: relative;
-  top: 10%;
   height: 100vh;
   display: flex;
   overflow: hidden;
